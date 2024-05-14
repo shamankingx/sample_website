@@ -42,7 +42,7 @@
 		$credential=$_GET["credential"];
 		if($user==="sa"&&$credential==="JDM82XDVMcNI^wpdW7ZQ5")
 		{
-			echo "<br><br>The flag is ";
+			echo "<br><br>The flag is JDM82XDVMcNI^wpdW7ZQ5";
 		}
 	  ?>
         </p>
